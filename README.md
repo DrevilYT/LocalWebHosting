@@ -20,6 +20,5 @@ Host a website locally or publicly, from a computer. This template uses node.js 
 
 # Playit.gg Tutorial (to make the site public)
 - Install playit.gg (included in template)
-- Then, follow this video tutorial.
-
-- 
+- Then, follow this video tutorial. (use the ip from the command prompt and the port is always 8080 for everyone)
+- https://youtu.be/cEkHjAM6iRA?si=INzf54KrxJI92XMR
