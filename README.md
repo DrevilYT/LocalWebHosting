@@ -1,5 +1,11 @@
 # LocalWebHosting
-Host a website locally or publicly, from a computer.
+Host a website locally or publicly, from a computer. This template uses node.js to host the server.
+
+# Included in Template
+- A plain website (example: https://drev.evils.in/LocalWebHosting)
+- All the requirements
+- Presetup files
+- Server startup commands
 
 # Requirements (included in template)
 - Node.js
